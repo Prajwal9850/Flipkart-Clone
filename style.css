@@ -48,3 +48,18 @@
     padding-left: 12px;
     background-color: #F0F5FF;
 }
+#categories {
+    display: flex;
+    justify-content: center;
+    margin-top: 6px;
+    margin: 12px;
+    margin: auto;
+    width: 100%;
+}
+#categories > div {
+    width: 9%;
+}
+#categories > div > img {
+   height: 60px;
+    width: 70px;
+}
